@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @eudaimonistic
+- 👀 I’m interested in becoming code-literate
+- 🌱 I’m currently learning how to even read the dang thing
+- 💞️ I’m looking to collaborate on translating back-end into end-user comprehensible readme files, for now...
+- 📫 How to reach me, eudaimonistic#9042 on Discord.
